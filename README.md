@@ -34,3 +34,7 @@
 [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+
+
+### Contributions Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ofir-frd&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
